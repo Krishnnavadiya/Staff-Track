@@ -1,5 +1,12 @@
 # 📊 Staff Track – HR Management System
 
+![Backend](https://img.shields.io/badge/Backend-Node.js-43853D?style=flat)
+![Framework](https://img.shields.io/badge/Framework-Express-000000?style=flat)
+![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat)
+![Auth](https://img.shields.io/badge/Auth-JWT-orange?style=flat)
+![Frontend](https://img.shields.io/badge/Frontend-React%20(TypeScript)-61DAFB?style=flat)
+![Mobile](https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat)
+
 **Staff Track** is a comprehensive HR Management System built to streamline employee management, time tracking, attendance, and internal organizational workflows. The system is divided into three major components:
 
 - 🔧 **Backend API Server** – Node.js & Express  
